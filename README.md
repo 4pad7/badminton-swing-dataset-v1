@@ -47,7 +47,6 @@ This dataset contains detailed 6-axis time-series data collected from wearable d
 1. **Download**:
    - Retrieve the dataset files from either of the following sources:
      - **OSF**: [https://doi.org/10.17605/OSF.IO/4UY38](https://doi.org/10.17605/OSF.IO/4UY38)
-     - **GitHub Release**: [https://github.com/4pad7/badminton-swing-dataset-v1/releases](https://github.com/4pad7/badminton-swing-dataset-v1/releases)
 2. **Extract**:
    - Unzip the `.zip` files to access the 203 de-identified `.txt` files.
 3. **Analyze**:
